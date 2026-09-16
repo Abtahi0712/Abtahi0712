@@ -15,7 +15,7 @@
 
 ##  About Me
 
-I'm a data analyst and machine learning engineer who enjoys turning messy real-world data into clean insights and working models. I operate across the full analytics stack — from SQL and Power BI dashboards to scikit-learn pipelines and deep learning systems for medical imaging.
+I'm a data analyst and machine learning engineer who enjoys turning messy real-world data into clean insights and working models. I operate across the full analytics stack — from SQL and Power BI dashboards to scikit-learn pipelines and deep learning systems in different domains.
 
 -  Building end-to-end data science projects across multiple domains
 -  Expanding into deep learning and computer vision
