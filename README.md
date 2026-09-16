@@ -19,7 +19,7 @@ I'm a data analyst and machine learning engineer who enjoys turning messy real-w
 
 -  Building end-to-end data science projects across multiple domains
 -  Expanding into deep learning and computer vision
--  Interests: Business Intelligence - Data Analytics - Predictive Modelling · Medical AI 
+-  Interests: Business Intelligence - Data Analytics - Predictive Modelling 
 -  Reach me at **abtahichowdhury2000@gmail.com**
 
 ---
