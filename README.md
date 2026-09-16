@@ -12,18 +12,18 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a data analyst and machine learning engineer who enjoys turning messy real-world data into clean insights and working models. I operate across the full analytics stack — from SQL and Power BI dashboards to scikit-learn pipelines and deep learning systems for medical imaging.
 
-- 🔭 Building end-to-end data science projects across multiple domains
-- 🌱 Expanding into deep learning and computer vision
-- 💡 Interests: Predictive Modelling · Medical AI · Business Intelligence
-- 📫 Reach me at **abtahichowdhury2000@gmail.com**
+-  Building end-to-end data science projects across multiple domains
+-  Expanding into deep learning and computer vision
+-  Interests: Business Intelligence - Data Analytics - Predictive Modelling · Medical AI 
+-  Reach me at **abtahichowdhury2000@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages & Platforms**
 
@@ -44,7 +44,7 @@ I'm a data analyst and machine learning engineer who enjoys turning messy real-w
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
