@@ -60,9 +60,11 @@ I'm a data analyst and machine learning engineer who enjoys turning messy real-w
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abtahi0712&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&title=Commits,Repositories,Stars,Followers,PullRequest,Issues" alt="GitHub Trophies" />
+![Followers](https://img.shields.io/github/followers/Abtahi0712?style=for-the-badge&logo=github&label=Followers&color=0d1117&labelColor=161b22&logoColor=white)
+![Stars](https://img.shields.io/github/stars/Abtahi0712?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=0d1117&labelColor=161b22&logoColor=white)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Abtahi0712&query=$.public_repos&style=for-the-badge&logo=github&label=Repos&color=0d1117&labelColor=161b22&logoColor=white)
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=Abtahi0712&theme=dark&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff9800&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 
