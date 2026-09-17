@@ -7,24 +7,23 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abtahi0712)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abtahichowdhury2000@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/OB22Nmq3py/)
 
 </div>
 
 ---
 
-##  About Me
+## 🚀 About Me
 
-I'm a data analyst and machine learning engineer who enjoys turning messy real-world data into clean insights and working models. I operate across the full analytics stack — from SQL and Power BI dashboards to scikit-learn pipelines and deep learning systems in different domains.
+I'm a data analyst and machine learning engineer who enjoys turning messy real-world data into clean insights and working models. I operate across the full analytics stack — from SQL and Power BI dashboards to scikit-learn pipelines and deep learning systems for medical imaging.
 
--  Building end-to-end data science projects across multiple domains
--  Expanding into deep learning and computer vision
--  Interests: Business Intelligence - Data Analytics - Predictive Modelling 
--  Reach me at **abtahichowdhury2000@gmail.com**
+- 🔭 Building end-to-end data science projects across multiple domains
+- 🌱 Expanding into deep learning and computer vision
+- 💡 Interests: Predictive Modelling · Medical AI · Business Intelligence
+- 📫 Reach me at **abtahichowdhury2000@gmail.com**
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 **Languages & Platforms**
 
@@ -45,7 +44,7 @@ I'm a data analyst and machine learning engineer who enjoys turning messy real-w
 
 ---
 
-##  Featured Projects
+## 📌 Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -61,9 +60,11 @@ I'm a data analyst and machine learning engineer who enjoys turning messy real-w
 
 <div align="center">
 
-![Abtahi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abtahi0712&show_icons=true&theme=default&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Abtahi0712&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="Abtahi's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abtahi0712&layout=compact&theme=default&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abtahi0712&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Abtahi0712&theme=dark&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff9800&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 
 </div>
 
