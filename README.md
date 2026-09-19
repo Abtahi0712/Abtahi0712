@@ -4,6 +4,7 @@
 
 **Data Analyst & Machine Learning Engineer**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abtahichowdhury.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abtahi0712)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abtahichowdhury2000@gmail.com)
@@ -12,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a data analyst and machine learning engineer who enjoys turning messy real-world data into clean insights and working models. I operate across the full analytics stack — from SQL and Power BI dashboards to scikit-learn pipelines and deep learning systems for medical imaging.
 
@@ -23,7 +24,7 @@ I'm a data analyst and machine learning engineer who enjoys turning messy real-w
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages & Platforms**
 
@@ -44,7 +45,7 @@ I'm a data analyst and machine learning engineer who enjoys turning messy real-w
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -56,7 +57,7 @@ I'm a data analyst and machine learning engineer who enjoys turning messy real-w
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
